@@ -1,1 +1,7 @@
 .idea/
+main*
+cmake-build-debug
+cmake_install.cmake
+Makefile
+CMake*
+codewars*
